@@ -6,15 +6,15 @@ District-Level Rape Crime Risk Mapping (India)
 
 📌 Features:
 
-📍 Detects user's location and displays local crime risk
+  ->  Detects user's location and displays local crime risk
 
-🗺️ Full map of India with color-coded risk levels per district
+  ->  Full map of India with color-coded risk levels per district
 
-📊 Uses crime data from NCRB (2012–2014) for visualization
+  ->  Uses crime data from NCRB (2012–2014) for visualization
 
-🔍 Tooltips or popups with district-wise rape statistics
+  ->  Tooltips or popups with district-wise rape statistics
 
-🧠 Motivation:
+Motivation:
   
   India continues to face serious challenges regarding women’s safety. This project focuses on analyzing and mapping rape cases to highlight high-risk areas and promote informed discussions around safety,   
   policing, and public policy.
